@@ -7,3 +7,4 @@
 - 📫 Как с нами связаться - vishenrish@imyaqa.com
 - 💻 Создаём игры на Unity
 - 🏠 На данный момент наш официальный сайт fin-pin.imyaqa.com
+- 📱 Ссылка на скачивание Fin pin - fin-pin.imyaqa.com/fin-pin-0.2.apk
